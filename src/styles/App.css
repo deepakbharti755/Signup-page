@@ -1,0 +1,24 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    
+    }
+    
+    .form{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 40%;
+        width:20%;
+        
+    }
+    .h1.form{
+        margin-top: 50px;
+    }
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
